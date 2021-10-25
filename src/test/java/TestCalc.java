@@ -9,11 +9,11 @@ public class TestCalc {
         assertEquals(Calc.add(1,1),2);
 
     }
-//    @Test
-//    public  void  test_subtract(){
-//
-//        assertEquals(Calc.subtract(1,1),0);
-//
-//    }
+    @Test
+    public  void  test_subtract(){
+
+        assertEquals(Calc.subtract(1,1),0);
+
+    }
 }
 
